@@ -1,0 +1,1 @@
+SELECT * FROM `termine` where datum>='2022-07-01' and datum<'2023-01-01'
